@@ -35,7 +35,7 @@ const About = () => {
             About Me.
           </h1>
           <p className="text-lg leading-relaxed mb-4">
-            I’m Luxetidal, a passionate and driven developer with a strong
+            I’m a passionate and driven developer with a strong
             foundation in software engineering and a keen interest in building
             impactful digital solutions. I thrive at the intersection of
             technology and creativity, with hands-on experience in full-stack

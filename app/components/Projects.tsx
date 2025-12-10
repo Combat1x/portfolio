@@ -140,7 +140,7 @@ const Projects = () => {
       {/* GitHub CTA */}
       <div className="mt-12">
         <Link
-          href="https://github.com/luxetidal"
+          href="https://github.com/snitch97"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-slate-800 no-underline group cursor-pointer relative shadow-2xl shadow-zinc-900 rounded-full p-px text-base font-semibold leading-6 text-white inline-block"
